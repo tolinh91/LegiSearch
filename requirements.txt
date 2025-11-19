@@ -1,0 +1,27 @@
+# Core dependencies
+streamlit>=1.28.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# NLP and Semantic Search
+sentence-transformers>=2.2.0
+transformers>=4.30.0
+torch>=2.0.0
+scikit-learn>=1.3.0
+
+# Text processing
+nltk>=3.8.0
+jieba>=0.42.1  # For Vietnamese text processing (optional)
+
+# Vector database (optional, for advanced semantic search)
+# faiss-cpu>=1.7.4  # Uncomment if using FAISS
+# chromadb>=0.4.0   # Uncomment if using ChromaDB
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+
+
+
+
+
