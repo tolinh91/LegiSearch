@@ -64,7 +64,7 @@ Hệ thống Tra cứu Luật là một ứng dụng web cho phép người dùn
 
 ```bash
 git clone <repository-url>
-cd streamlt
+cd LegiSearch
 ```
 
 ### 2. Tạo môi trường ảo (khuyến nghị)
